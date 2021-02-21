@@ -19,7 +19,7 @@ Over the course, many candidates have submitted some amazing assignments. We dec
 - Make sure the bugs are detailed and clear.
 - You can use any platform to file these bugs, e.g. Github issues / Jira / Asana / Google Sheets, etc.
 
-### 2. Write automated tests to validate the app
+### 2. Write automated tests for the app
 
 - Write E2E / integration tests as you see fit, using any programming language & test framework of your choice.
 - Make sure your test suite covers as many scenarios as possible.
@@ -27,7 +27,7 @@ Over the course, many candidates have submitted some amazing assignments. We dec
 ## Submission & Presentation
 
 1. Please create a public GitHub / BitBucket repository for your project.
-2. Your repository must have a detailed README.md with instructions on how to set up & run your tests locally.
+2. Your repository must have a detailed README.md with instructions on how to set up & run your tests locally. You must also include instructions on how to set up the coding environment.
 3. It must not contain the words “hellochef” or “challenge”.
 4. We would like you to present your work no later than 7 days from the day you receive your assignment.
 5. Accordingly, please send us the link to your repository at least 1 day prior to the presentation meeting for a review.
@@ -36,3 +36,7 @@ Over the course, many candidates have submitted some amazing assignments. We dec
     - Run your tests locally
     - Explain your project structure
     - Run tests, if any
+
+---
+
+> Have questions? We would love to answer. Mail us at techchallenge@hellochef.me
