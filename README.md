@@ -24,7 +24,7 @@ Over the course, many candidates have submitted some amazing assignments. We dec
 
 - Write E2E / integration tests as you see fit, using any programming language & test framework of your choice.
 - Make sure your test suite covers as many scenarios as possible.
-- We strongly suggest using JavaScript based testing frameworks for this assignment.
+- We strongly suggest using a JavaScript based testing framework for this assignment.
 
 ## Submission & Presentation
 
