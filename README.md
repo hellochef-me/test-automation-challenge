@@ -18,11 +18,13 @@ Over the course, many candidates have submitted some amazing assignments. We dec
 - Validate the developed code against the requirement document and make a list of bugs you find.
 - Make sure the bugs are detailed and clear.
 - You can use any platform to file these bugs, e.g. Github issues / Jira / Asana / Google Sheets, etc.
+- Note: In case you choose Github issues, please create a new repository.
 
 ### 2. Write automated tests for the app
 
 - Write E2E / integration tests as you see fit, using any programming language & test framework of your choice.
 - Make sure your test suite covers as many scenarios as possible.
+- We strongly suggest using JavaScript based testing frameworks for this assignment.
 
 ## Submission & Presentation
 
