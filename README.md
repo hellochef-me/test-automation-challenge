@@ -9,7 +9,7 @@ Over the course, many candidates have submitted some amazing assignments. We dec
 ## Your Inputs
 
 1. Development brief / requirement document given to the frontend developer candidates: [Link](https://github.com/hellochef-me/frontend-challenge)
-2. The developed app: [Link](https://lucid-heisenberg-474565.netlify.app/)
+2. The developed app: [Link](https://luminous-meringue-661120.netlify.app/)
 
 ## Your Objectives
 
