@@ -2,7 +2,7 @@
 
 ## Brief
 
-Hello Chef's Frontend Developer hiring process involves a coding assignment to create a event search app from scratch using Vue.js.
+Hello Chef's Frontend Developer hiring process involves a coding assignment to create an event search app from scratch using Vue.js.
 
 Over the course, many candidates have submitted some amazing assignments. We decided to pick one of them as a base for the software test engineer's assignment.
 
